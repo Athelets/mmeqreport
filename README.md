@@ -1,2 +1,0 @@
-# mmeqreport
-Myanmar Report
